@@ -4,8 +4,8 @@
 	Plugin URI: https://github.com/envex/acf-button-field
 	Description: Creates a set of button fields for the Advanced Custom Fields plugin
 	Version: 1.0.0
-	Author: Matt Vickers
-	Author URI: http://hey.facetdev.com
+	Author: Matt Cromwell
+	Author URI: http://mattcromwell.com
 	License: GPLv2 or later
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
